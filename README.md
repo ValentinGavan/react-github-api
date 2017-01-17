@@ -1,5 +1,5 @@
 # react-start
-Starter project for React using Webpack
+GitHub user search using React with Webpack and GitHub API
 
 ## Requirements
 
